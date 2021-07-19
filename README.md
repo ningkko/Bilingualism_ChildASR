@@ -1,7 +1,7 @@
 # Bilingual
 Tries to find out the reason for bilingual children not performing as well as monolingual children in English fluency tests.
 
->> Work done at L3@BC
+> Work done at L3@BC
 Log: https://docs.google.com/document/d/1BI81WpWN63e13zJxiNQWVubdNLdnJaHqt6ESZx9AMEI/edit?usp=sharing
 
 ## How to run
