@@ -80,7 +80,7 @@ carrots,Food and Drink,produces/does not produce,item_78,,carrots
 cereal,Food and Drink,produces/does not produce,item_79,,cereal
 cheerios,Food and Drink,produces/does not produce,item_80,,cheerios
 cheese,Food and Drink,produces/does not produce,item_81,,cheese
-chicken_2,Food and Drink,produces/does not produce,item_82,,chicken_2
+chicken_2,Food and Drink,produces/does not produce,item_82,,chicken
 chocolate,Food and Drink,produces/does not produce,item_83,,chocolate
 coffee,Food and Drink,produces/does not produce,item_84,,coffee
 coke,Food and Drink,produces/does not produce,item_85,,coke
@@ -90,7 +90,7 @@ cracker,Food and Drink,produces/does not produce,item_88,,cracker
 donut,Food and Drink,produces/does not produce,item_89,,donut
 drink,Food and Drink,produces/does not produce,item_90,,drink
 egg,Food and Drink,produces/does not produce,item_91,,egg
-fish_2,Food and Drink,produces/does not produce,item_92,,fish_2
+fish_2,Food and Drink,produces/does not produce,item_92,,fish
 food,Food and Drink,produces/does not produce,item_93,,food
 french fries,Food and Drink,produces/does not produce,item_94,,french fries
 grapes,Food and Drink,produces/does not produce,item_95,,grapes
@@ -276,7 +276,7 @@ street,Outside Things,produces/does not produce,item_274,,street
 sun,Outside Things,produces/does not produce,item_275,,sun
 swing,Outside Things,produces/does not produce,item_276,,swing
 tree,Outside Things,produces/does not produce,item_277,,tree
-water_2,Outside Things,produces/does not produce,item_278,,water_2
+water_2,Outside Things,produces/does not produce,item_278,,water
 wind,Outside Things,produces/does not produce,item_279,,wind
 beach,Places to Go; People,produces/does not produce,item_280,,beach
 camping,Places to Go; People,produces/does not produce,item_281,,camping
@@ -345,7 +345,7 @@ cry,Action Words,produces/does not produce,item_343,,cry
 cut,Action Words,produces/does not produce,item_344,,cut
 dance,Action Words,produces/does not produce,item_345,,dance
 draw,Action Words,produces/does not produce,item_346,,draw
-drink_2,Action Words,produces/does not produce,item_347,,drink_2
+drink_2,Action Words,produces/does not produce,item_347,,drink
 drive,Action Words,produces/does not produce,item_348,,drive
 drop,Action Words,produces/does not produce,item_349,,drop
 dry,Action Words,produces/does not produce,item_350,,dry
@@ -401,7 +401,7 @@ sing,Action Words,produces/does not produce,item_399,,sing
 sit,Action Words,produces/does not produce,item_400,,sit
 skate,Action Words,produces/does not produce,item_401,,skate
 sleep,Action Words,produces/does not produce,item_402,,sleep
-slide_2,Action Words,produces/does not produce,item_403,,slide_2
+slide_2,Action Words,produces/does not produce,item_403,,slide
 smile,Action Words,produces/does not produce,item_404,,smile
 spill,Action Words,produces/does not produce,item_405,,spill
 splash,Action Words,produces/does not produce,item_406,,splash
@@ -410,7 +410,7 @@ stay,Action Words,produces/does not produce,item_408,,stay
 stop,Action Words,produces/does not produce,item_409,,stop
 sweep,Action Words,produces/does not produce,item_410,,sweep
 swim,Action Words,produces/does not produce,item_411,,swim
-swing_2,Action Words,produces/does not produce,item_412,,swing_2
+swing_2,Action Words,produces/does not produce,item_412,,swing
 take,Action Words,produces/does not produce,item_413,,take
 talk,Action Words,produces/does not produce,item_414,,talk
 taste,Action Words,produces/does not produce,item_415,,taste
@@ -423,10 +423,10 @@ wait,Action Words,produces/does not produce,item_421,,wait
 wake,Action Words,produces/does not produce,item_422,,wake
 walk,Action Words,produces/does not produce,item_423,,walk
 wash,Action Words,produces/does not produce,item_424,,wash
-watch_2,Action Words,produces/does not produce,item_425,,watch_2
+watch_2,Action Words,produces/does not produce,item_425,,watch
 wipe,Action Words,produces/does not produce,item_426,,wipe
 wish,Action Words,produces/does not produce,item_427,,wish
-work_2,Action Words,produces/does not produce,item_428,,work_2
+work_2,Action Words,produces/does not produce,item_428,,work
  write,Action Words,produces/does not produce,item_429,, write
 allgone,Descriptive Words,produces/does not produce,item_430,,allgone
 asleep,Descriptive Words,produces/does not produce,item_431,,asleep
@@ -439,12 +439,12 @@ blue,Descriptive Words,produces/does not produce,item_437,,blue
 broken,Descriptive Words,produces/does not produce,item_438,,broken
 brown,Descriptive Words,produces/does not produce,item_439,,brown
 careful,Descriptive Words,produces/does not produce,item_440,,careful
-clean_2,Descriptive Words,produces/does not produce,item_441,,clean_2
+clean_2,Descriptive Words,produces/does not produce,item_441,,clean
 cold,Descriptive Words,produces/does not produce,item_442,,cold
 cute,Descriptive Words,produces/does not produce,item_443,,cute
 dark,Descriptive Words,produces/does not produce,item_444,,dark
 dirty,Descriptive Words,produces/does not produce,item_445,,dirty
-dry_2,Descriptive Words,produces/does not produce,item_446,,dry_2
+dry_2,Descriptive Words,produces/does not produce,item_446,,dry
 empty,Descriptive Words,produces/does not produce,item_447,,empty
 fast,Descriptive Words,produces/does not produce,item_448,,fast
 fine,Descriptive Words,produces/does not produce,item_449,,fine
@@ -470,7 +470,7 @@ new,Descriptive Words,produces/does not produce,item_468,,new
 nice,Descriptive Words,produces/does not produce,item_469,,nice
 noisy,Descriptive Words,produces/does not produce,item_470,,noisy
 old,Descriptive Words,produces/does not produce,item_471,,old
-orange_2,Descriptive Words,produces/does not produce,item_472,,orange_2
+orange_2,Descriptive Words,produces/does not produce,item_472,,orange
 poor,Descriptive Words,produces/does not produce,item_473,,poor
 pretty,Descriptive Words,produces/does not produce,item_474,,pretty
 quiet,Descriptive Words,produces/does not produce,item_475,,quiet
@@ -532,7 +532,7 @@ with,"Prepositions and locations, qua",produces/does not produce,item_530,,with
 am,"Helping Verbs, Connecting Words",produces/does not produce,item_531,,am
 are,"Helping Verbs, Connecting Words",produces/does not produce,item_532,,are
 be,"Helping Verbs, Connecting Words",produces/does not produce,item_533,,be
-can_2,"Helping Verbs, Connecting Words",produces/does not produce,item_534,,can_2
+can_2,"Helping Verbs, Connecting Words",produces/does not produce,item_534,,can
 could,"Helping Verbs, Connecting Words",produces/does not produce,item_535,,could
 did/did ya,"Helping Verbs, Connecting Words",produces/does not produce,item_536,,did/did ya
 do,"Helping Verbs, Connecting Words",produces/does not produce,item_537,,do
