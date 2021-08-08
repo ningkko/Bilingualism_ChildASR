@@ -1,0 +1,571 @@
+item,type,choices,itemID,complexity_category,gloss
+baa baa,Sound Effects and Animal Sounds,produces/does not produce,item_1,,baa baa
+choo choo,Sound Effects and Animal Sounds,produces/does not produce,item_2,,choo choo
+cockadoodledoo,Sound Effects and Animal Sounds,produces/does not produce,item_3,,cockadoodledoo
+grr,Sound Effects and Animal Sounds,produces/does not produce,item_4,,grr
+meow,Sound Effects and Animal Sounds,produces/does not produce,item_5,,meow
+moo,Sound Effects and Animal Sounds,produces/does not produce,item_6,,moo
+ouch,Sound Effects and Animal Sounds,produces/does not produce,item_7,,ouch
+quack quack,Sound Effects and Animal Sounds,produces/does not produce,item_8,,quack quack
+uh oh,Sound Effects and Animal Sounds,produces/does not produce,item_9,,uh oh
+vroom,Sound Effects and Animal Sounds,produces/does not produce,item_10,,vroom
+woof woof,Sound Effects and Animal Sounds,produces/does not produce,item_11,,woof woof
+yum yum,Sound Effects and Animal Sounds,produces/does not produce,item_12,,yum yum
+alligator,Animals (Real or Toy),produces/does not produce,item_13,,alligator
+animal,Animals (Real or Toy),produces/does not produce,item_14,,animal
+ant,Animals (Real or Toy),produces/does not produce,item_15,,ant
+bear,Animals (Real or Toy),produces/does not produce,item_16,,bear
+bee,Animals (Real or Toy),produces/does not produce,item_17,,bee
+bird,Animals (Real or Toy),produces/does not produce,item_18,,bird
+bug,Animals (Real or Toy),produces/does not produce,item_19,,bug
+bunny,Animals (Real or Toy),produces/does not produce,item_20,,bunny
+butterfly,Animals (Real or Toy),produces/does not produce,item_21,,butterfly
+cat,Animals (Real or Toy),produces/does not produce,item_22,,cat
+chicken,Animals (Real or Toy),produces/does not produce,item_23,,chicken
+cow,Animals (Real or Toy),produces/does not produce,item_24,,cow
+deer,Animals (Real or Toy),produces/does not produce,item_25,,deer
+dog,Animals (Real or Toy),produces/does not produce,item_26,,dog
+donkey,Animals (Real or Toy),produces/does not produce,item_27,,donkey
+duck,Animals (Real or Toy),produces/does not produce,item_28,,duck
+elephant,Animals (Real or Toy),produces/does not produce,item_29,,elephant
+fish,Animals (Real or Toy),produces/does not produce,item_30,,fish
+frog,Animals (Real or Toy),produces/does not produce,item_31,,frog
+giraffe,Animals (Real or Toy),produces/does not produce,item_32,,giraffe
+goose,Animals (Real or Toy),produces/does not produce,item_33,,goose
+hen,Animals (Real or Toy),produces/does not produce,item_34,,hen
+horse,Animals (Real or Toy),produces/does not produce,item_35,,horse
+kitty,Animals (Real or Toy),produces/does not produce,item_36,,kitty
+lamb,Animals (Real or Toy),produces/does not produce,item_37,,lamb
+lion,Animals (Real or Toy),produces/does not produce,item_38,,lion
+monkey,Animals (Real or Toy),produces/does not produce,item_39,,monkey
+moose,Animals (Real or Toy),produces/does not produce,item_40,,moose
+mouse,Animals (Real or Toy),produces/does not produce,item_41,,mouse
+owl,Animals (Real or Toy),produces/does not produce,item_42,,owl
+penguin,Animals (Real or Toy),produces/does not produce,item_43,,penguin
+pig,Animals (Real or Toy),produces/does not produce,item_44,,pig
+pony,Animals (Real or Toy),produces/does not produce,item_45,,pony
+puppy,Animals (Real or Toy),produces/does not produce,item_46,,puppy
+rooster,Animals (Real or Toy),produces/does not produce,item_47,,rooster
+sheep,Animals (Real or Toy),produces/does not produce,item_48,,sheep
+squirrel,Animals (Real or Toy),produces/does not produce,item_49,,squirrel
+teddybear,Animals (Real or Toy),produces/does not produce,item_50,,teddybear
+tiger,Animals (Real or Toy),produces/does not produce,item_51,,tiger
+turkey,Animals (Real or Toy),produces/does not produce,item_52,,turkey
+turtle,Animals (Real or Toy),produces/does not produce,item_53,,turtle
+wolf,Animals (Real or Toy),produces/does not produce,item_54,,wolf
+zebra,Animals (Real or Toy),produces/does not produce,item_55,,zebra
+airplane,Vehicles (Real or Toy) & Toys,produces/does not produce,item_56,,airplane
+bicycle,Vehicles (Real or Toy) & Toys,produces/does not produce,item_57,,bicycle
+boat,Vehicles (Real or Toy) & Toys,produces/does not produce,item_58,,boat
+bus,Vehicles (Real or Toy) & Toys,produces/does not produce,item_59,,bus
+car,Vehicles (Real or Toy) & Toys,produces/does not produce,item_60,,car
+firetruck,Vehicles (Real or Toy) & Toys,produces/does not produce,item_61,,firetruck
+helicopter,Vehicles (Real or Toy) & Toys,produces/does not produce,item_62,,helicopter
+motorcycle,Vehicles (Real or Toy) & Toys,produces/does not produce,item_63,,motorcycle
+sled,Vehicles (Real or Toy) & Toys,produces/does not produce,item_64,,sled
+stroller,Vehicles (Real or Toy) & Toys,produces/does not produce,item_65,,stroller
+tractor,Vehicles (Real or Toy) & Toys,produces/does not produce,item_66,,tractor
+train,Vehicles (Real or Toy) & Toys,produces/does not produce,item_67,,train
+tricycle,Vehicles (Real or Toy) & Toys,produces/does not produce,item_68,,tricycle
+truck,Vehicles (Real or Toy) & Toys,produces/does not produce,item_69,,truck
+apple,Food and Drink,produces/does not produce,item_70,,apple
+applesauce,Food and Drink,produces/does not produce,item_71,,applesauce
+banana,Food and Drink,produces/does not produce,item_72,,banana
+beans,Food and Drink,produces/does not produce,item_73,,beans
+bread,Food and Drink,produces/does not produce,item_74,,bread
+butter,Food and Drink,produces/does not produce,item_75,,butter
+cake,Food and Drink,produces/does not produce,item_76,,cake
+candy,Food and Drink,produces/does not produce,item_77,,candy
+carrots,Food and Drink,produces/does not produce,item_78,,carrots
+cereal,Food and Drink,produces/does not produce,item_79,,cereal
+cheerios,Food and Drink,produces/does not produce,item_80,,cheerios
+cheese,Food and Drink,produces/does not produce,item_81,,cheese
+chicken_2,Food and Drink,produces/does not produce,item_82,,chicken
+chocolate,Food and Drink,produces/does not produce,item_83,,chocolate
+coffee,Food and Drink,produces/does not produce,item_84,,coffee
+coke,Food and Drink,produces/does not produce,item_85,,coke
+cookie,Food and Drink,produces/does not produce,item_86,,cookie
+corn,Food and Drink,produces/does not produce,item_87,,corn
+cracker,Food and Drink,produces/does not produce,item_88,,cracker
+donut,Food and Drink,produces/does not produce,item_89,,donut
+drink,Food and Drink,produces/does not produce,item_90,,drink
+egg,Food and Drink,produces/does not produce,item_91,,egg
+fish_2,Food and Drink,produces/does not produce,item_92,,fish
+food,Food and Drink,produces/does not produce,item_93,,food
+french fries,Food and Drink,produces/does not produce,item_94,,french fries
+grapes,Food and Drink,produces/does not produce,item_95,,grapes
+green beans,Food and Drink,produces/does not produce,item_96,,green beans
+gum,Food and Drink,produces/does not produce,item_97,,gum
+hamburger,Food and Drink,produces/does not produce,item_98,,hamburger
+ice,Food and Drink,produces/does not produce,item_99,,ice
+ice cream,Food and Drink,produces/does not produce,item_100,,ice cream
+jello,Food and Drink,produces/does not produce,item_101,,jello
+jelly,Food and Drink,produces/does not produce,item_102,,jelly
+juice,Food and Drink,produces/does not produce,item_103,,juice
+lollipop,Food and Drink,produces/does not produce,item_104,,lollipop
+meat,Food and Drink,produces/does not produce,item_105,,meat
+melon,Food and Drink,produces/does not produce,item_106,,melon
+milk,Food and Drink,produces/does not produce,item_107,,milk
+muffin,Food and Drink,produces/does not produce,item_108,,muffin
+noodles,Food and Drink,produces/does not produce,item_109,,noodles
+nuts,Food and Drink,produces/does not produce,item_110,,nuts
+orange,Food and Drink,produces/does not produce,item_111,,orange
+pancake,Food and Drink,produces/does not produce,item_112,,pancake
+peanut butter,Food and Drink,produces/does not produce,item_113,,peanut butter
+peas,Food and Drink,produces/does not produce,item_114,,peas
+pickle,Food and Drink,produces/does not produce,item_115,,pickle
+pizza,Food and Drink,produces/does not produce,item_116,,pizza
+popcorn,Food and Drink,produces/does not produce,item_117,,popcorn
+popsicle,Food and Drink,produces/does not produce,item_118,,popsicle
+potato,Food and Drink,produces/does not produce,item_119,,potato
+potato chip,Food and Drink,produces/does not produce,item_120,,potato chip
+pretzel,Food and Drink,produces/does not produce,item_121,,pretzel
+pudding,Food and Drink,produces/does not produce,item_122,,pudding
+pumpkin,Food and Drink,produces/does not produce,item_123,,pumpkin
+raisin,Food and Drink,produces/does not produce,item_124,,raisin
+salt,Food and Drink,produces/does not produce,item_125,,salt
+sandwich,Food and Drink,produces/does not produce,item_126,,sandwich
+sauce,Food and Drink,produces/does not produce,item_127,,sauce
+soda/pop,Food and Drink,produces/does not produce,item_128,,soda/pop
+soup,Food and Drink,produces/does not produce,item_129,,soup
+spaghetti,Food and Drink,produces/does not produce,item_130,,spaghetti
+strawberry,Food and Drink,produces/does not produce,item_131,,strawberry
+toast,Food and Drink,produces/does not produce,item_132,,toast
+tuna,Food and Drink,produces/does not produce,item_133,,tuna
+vanilla,Food and Drink,produces/does not produce,item_134,,vanilla
+vitamins,Food and Drink,produces/does not produce,item_135,,vitamins
+water,Food and Drink,produces/does not produce,item_136,,water
+yogurt,Food and Drink,produces/does not produce,item_137,,yogurt
+beads,Clothing & Body Parts,produces/does not produce,item_138,,beads
+belt,Clothing & Body Parts,produces/does not produce,item_139,,belt
+bib,Clothing & Body Parts,produces/does not produce,item_140,,bib
+boots,Clothing & Body Parts,produces/does not produce,item_141,,boots
+button,Clothing & Body Parts,produces/does not produce,item_142,,button
+coat,Clothing & Body Parts,produces/does not produce,item_143,,coat
+diaper,Clothing & Body Parts,produces/does not produce,item_144,,diaper
+dress,Clothing & Body Parts,produces/does not produce,item_145,,dress
+gloves,Clothing & Body Parts,produces/does not produce,item_146,,gloves
+hat,Clothing & Body Parts,produces/does not produce,item_147,,hat
+jacket,Clothing & Body Parts,produces/does not produce,item_148,,jacket
+jeans,Clothing & Body Parts,produces/does not produce,item_149,,jeans
+mittens,Clothing & Body Parts,produces/does not produce,item_150,,mittens
+necklace,Clothing & Body Parts,produces/does not produce,item_151,,necklace
+pajamas,Clothing & Body Parts,produces/does not produce,item_152,,pajamas
+pants,Clothing & Body Parts,produces/does not produce,item_153,,pants
+scarf,Clothing & Body Parts,produces/does not produce,item_154,,scarf
+shirt,Clothing & Body Parts,produces/does not produce,item_155,,shirt
+shoe,Clothing & Body Parts,produces/does not produce,item_156,,shoe
+shorts,Clothing & Body Parts,produces/does not produce,item_157,,shorts
+slipper,Clothing & Body Parts,produces/does not produce,item_158,,slipper
+sneaker,Clothing & Body Parts,produces/does not produce,item_159,,sneaker
+snowsuit,Clothing & Body Parts,produces/does not produce,item_160,,snowsuit
+sock,Clothing & Body Parts,produces/does not produce,item_161,,sock
+sweater,Clothing & Body Parts,produces/does not produce,item_162,,sweater
+tights,Clothing & Body Parts,produces/does not produce,item_163,,tights
+underpants,Clothing & Body Parts,produces/does not produce,item_164,,underpants
+zipper,Clothing & Body Parts,produces/does not produce,item_165,,zipper
+basket,Small Household Items,produces/does not produce,item_166,,basket
+blanket,Small Household Items,produces/does not produce,item_167,,blanket
+bottle,Small Household Items,produces/does not produce,item_168,,bottle
+box,Small Household Items,produces/does not produce,item_169,,box
+bowl,Small Household Items,produces/does not produce,item_170,,bowl
+broom,Small Household Items,produces/does not produce,item_171,,broom
+brush,Small Household Items,produces/does not produce,item_172,,brush
+bucket,Small Household Items,produces/does not produce,item_173,,bucket
+camera,Small Household Items,produces/does not produce,item_174,,camera
+can,Small Household Items,produces/does not produce,item_175,,can
+clock,Small Household Items,produces/does not produce,item_176,,clock
+comb,Small Household Items,produces/does not produce,item_177,,comb
+cup,Small Household Items,produces/does not produce,item_178,,cup
+dish,Small Household Items,produces/does not produce,item_179,,dish
+fork,Small Household Items,produces/does not produce,item_180,,fork
+garbage,Small Household Items,produces/does not produce,item_181,,garbage
+glass,Small Household Items,produces/does not produce,item_182,,glass
+glasses,Small Household Items,produces/does not produce,item_183,,glasses
+hammer,Small Household Items,produces/does not produce,item_184,,hammer
+jar,Small Household Items,produces/does not produce,item_185,,jar
+keys,Small Household Items,produces/does not produce,item_186,,keys
+knife,Small Household Items,produces/does not produce,item_187,,knife
+lamp,Small Household Items,produces/does not produce,item_188,,lamp
+light,Small Household Items,produces/does not produce,item_189,,light
+medicine,Small Household Items,produces/does not produce,item_190,,medicine
+money,Small Household Items,produces/does not produce,item_191,,money
+mop,Small Household Items,produces/does not produce,item_192,,mop
+nail,Small Household Items,produces/does not produce,item_193,,nail
+napkin,Small Household Items,produces/does not produce,item_194,,napkin
+paper,Small Household Items,produces/does not produce,item_195,,paper
+penny,Small Household Items,produces/does not produce,item_196,,penny
+picture,Small Household Items,produces/does not produce,item_197,,picture
+pillow,Small Household Items,produces/does not produce,item_198,,pillow
+plant,Small Household Items,produces/does not produce,item_199,,plant
+plate,Small Household Items,produces/does not produce,item_200,,plate
+purse,Small Household Items,produces/does not produce,item_201,,purse
+radio,Small Household Items,produces/does not produce,item_202,,radio
+scissors,Small Household Items,produces/does not produce,item_203,,scissors
+soap,Small Household Items,produces/does not produce,item_204,,soap
+spoon,Small Household Items,produces/does not produce,item_205,,spoon
+tape,Small Household Items,produces/does not produce,item_206,,tape
+telephone,Small Household Items,produces/does not produce,item_207,,telephone
+tissue/kleenex,Small Household Items,produces/does not produce,item_208,,tissue/kleenex
+toothbrush,Small Household Items,produces/does not produce,item_209,,toothbrush
+towel,Small Household Items,produces/does not produce,item_210,,towel
+trash,Small Household Items,produces/does not produce,item_211,,trash
+tray,Small Household Items,produces/does not produce,item_212,,tray
+vacuum,Small Household Items,produces/does not produce,item_213,,vacuum
+walker,Small Household Items,produces/does not produce,item_214,,walker
+watch,Small Household Items,produces/does not produce,item_215,,watch
+basement,Furniture and Rooms,produces/does not produce,item_216,,basement
+bathroom,Furniture and Rooms,produces/does not produce,item_217,,bathroom
+bathtub,Furniture and Rooms,produces/does not produce,item_218,,bathtub
+bed,Furniture and Rooms,produces/does not produce,item_219,,bed
+bedroom,Furniture and Rooms,produces/does not produce,item_220,,bedroom
+bench,Furniture and Rooms,produces/does not produce,item_221,,bench
+chair,Furniture and Rooms,produces/does not produce,item_222,,chair
+closet,Furniture and Rooms,produces/does not produce,item_223,,closet
+couch,Furniture and Rooms,produces/does not produce,item_224,,couch
+crib,Furniture and Rooms,produces/does not produce,item_225,,crib
+door,Furniture and Rooms,produces/does not produce,item_226,,door
+drawer,Furniture and Rooms,produces/does not produce,item_227,,drawer
+dryer,Furniture and Rooms,produces/does not produce,item_228,,dryer
+garage,Furniture and Rooms,produces/does not produce,item_229,,garage
+high chair,Furniture and Rooms,produces/does not produce,item_230,,high chair
+kitchen,Furniture and Rooms,produces/does not produce,item_231,,kitchen
+living room,Furniture and Rooms,produces/does not produce,item_232,,living room
+oven,Furniture and Rooms,produces/does not produce,item_233,,oven
+play pen,Furniture and Rooms,produces/does not produce,item_234,,play pen
+porch,Furniture and Rooms,produces/does not produce,item_235,,porch
+potty,Furniture and Rooms,produces/does not produce,item_236,,potty
+refrigerator,Furniture and Rooms,produces/does not produce,item_237,,refrigerator
+rocking chair,Furniture and Rooms,produces/does not produce,item_238,,rocking chair
+room,Furniture and Rooms,produces/does not produce,item_239,,room
+shower,Furniture and Rooms,produces/does not produce,item_240,,shower
+sink,Furniture and Rooms,produces/does not produce,item_241,,sink
+sofa,Furniture and Rooms,produces/does not produce,item_242,,sofa
+stairs,Furniture and Rooms,produces/does not produce,item_243,,stairs
+stove,Furniture and Rooms,produces/does not produce,item_244,,stove
+table,Furniture and Rooms,produces/does not produce,item_245,,table
+TV,Furniture and Rooms,produces/does not produce,item_246,,TV
+washing machine,Furniture and Rooms,produces/does not produce,item_247,,washing machine
+window,Furniture and Rooms,produces/does not produce,item_248,,window
+backyard,Outside Things,produces/does not produce,item_249,,backyard
+cloud,Outside Things,produces/does not produce,item_250,,cloud
+flag,Outside Things,produces/does not produce,item_251,,flag
+flower,Outside Things,produces/does not produce,item_252,,flower
+garden,Outside Things,produces/does not produce,item_253,,garden
+grass,Outside Things,produces/does not produce,item_254,,grass
+hose,Outside Things,produces/does not produce,item_255,,hose
+ladder,Outside Things,produces/does not produce,item_256,,ladder
+lawn mower,Outside Things,produces/does not produce,item_257,,lawn mower
+moon,Outside Things,produces/does not produce,item_258,,moon
+pool,Outside Things,produces/does not produce,item_259,,pool
+rain,Outside Things,produces/does not produce,item_260,,rain
+rock,Outside Things,produces/does not produce,item_261,,rock
+roof,Outside Things,produces/does not produce,item_262,,roof
+sandbox,Outside Things,produces/does not produce,item_263,,sandbox
+shovel,Outside Things,produces/does not produce,item_264,,shovel
+sidewalk,Outside Things,produces/does not produce,item_265,,sidewalk
+sky,Outside Things,produces/does not produce,item_266,,sky
+slide,Outside Things,produces/does not produce,item_267,,slide
+snow,Outside Things,produces/does not produce,item_268,,snow
+snowman,Outside Things,produces/does not produce,item_269,,snowman
+sprinkler,Outside Things,produces/does not produce,item_270,,sprinkler
+star,Outside Things,produces/does not produce,item_271,,star
+stick,Outside Things,produces/does not produce,item_272,,stick
+stone,Outside Things,produces/does not produce,item_273,,stone
+street,Outside Things,produces/does not produce,item_274,,street
+sun,Outside Things,produces/does not produce,item_275,,sun
+swing,Outside Things,produces/does not produce,item_276,,swing
+tree,Outside Things,produces/does not produce,item_277,,tree
+water_2,Outside Things,produces/does not produce,item_278,,water
+wind,Outside Things,produces/does not produce,item_279,,wind
+beach,Places to Go; People,produces/does not produce,item_280,,beach
+camping,Places to Go; People,produces/does not produce,item_281,,camping
+church*,Places to Go; People,produces/does not produce,item_282,,church*
+circus,Places to Go; People,produces/does not produce,item_283,,circus
+country,Places to Go; People,produces/does not produce,item_284,,country
+downtown,Places to Go; People,produces/does not produce,item_285,,downtown
+farm,Places to Go; People,produces/does not produce,item_286,,farm
+gas station,Places to Go; People,produces/does not produce,item_287,,gas station
+home,Places to Go; People,produces/does not produce,item_288,,home
+house,Places to Go; People,produces/does not produce,item_289,,house
+movie,Places to Go; People,produces/does not produce,item_290,,movie
+outside,Places to Go; People,produces/does not produce,item_291,,outside
+park,Places to Go; People,produces/does not produce,item_292,,park
+party,Places to Go; People,produces/does not produce,item_293,,party
+picnic,Places to Go; People,produces/does not produce,item_294,,picnic
+playground,Places to Go; People,produces/does not produce,item_295,,playground
+school,Places to Go; People,produces/does not produce,item_296,,school
+store,Places to Go; People,produces/does not produce,item_297,,store
+woods,Places to Go; People,produces/does not produce,item_298,,woods
+work,Places to Go; People,produces/does not produce,item_299,,work
+yard,Places to Go; People,produces/does not produce,item_300,,yard
+zoo,Places to Go; People,produces/does not produce,item_301,,zoo
+bath,Games and Routines,produces/does not produce,item_302,,bath
+breakfast,Games and Routines,produces/does not produce,item_303,,breakfast
+bye,Games and Routines,produces/does not produce,item_304,,bye
+call (on phone),Games and Routines,produces/does not produce,item_305,,call (on phone)
+dinner,Games and Routines,produces/does not produce,item_306,,dinner
+give me five!,Games and Routines,produces/does not produce,item_307,,give me five!
+gonna get you!,Games and Routines,produces/does not produce,item_308,,gonna get you!
+go potty,Games and Routines,produces/does not produce,item_309,,go potty
+hi,Games and Routines,produces/does not produce,item_310,,hi
+hello,Games and Routines,produces/does not produce,item_311,,hello
+lunch,Games and Routines,produces/does not produce,item_312,,lunch
+nap,Games and Routines,produces/does not produce,item_313,,nap
+night night,Games and Routines,produces/does not produce,item_314,,night night
+no,Games and Routines,produces/does not produce,item_315,,no
+patty cake,Games and Routines,produces/does not produce,item_316,,patty cake
+peekaboo,Games and Routines,produces/does not produce,item_317,,peekaboo
+please,Games and Routines,produces/does not produce,item_318,,please
+shh/shush/hush,Games and Routines,produces/does not produce,item_319,,shh/shush/hush
+shopping,Games and Routines,produces/does not produce,item_320,,shopping
+snack,Games and Routines,produces/does not produce,item_321,,snack
+so big!,Games and Routines,produces/does not produce,item_322,,so big!
+thank you,Games and Routines,produces/does not produce,item_323,,thank you
+this little piggy,Games and Routines,produces/does not produce,item_324,,this little piggy
+turn around,Games and Routines,produces/does not produce,item_325,,turn around
+yes,Games and Routines,produces/does not produce,item_326,,yes
+bite,Action Words,produces/does not produce,item_327,,bite
+blow,Action Words,produces/does not produce,item_328,,blow
+break,Action Words,produces/does not produce,item_329,,break
+bring,Action Words,produces/does not produce,item_330,,bring
+build,Action Words,produces/does not produce,item_331,,build
+bump,Action Words,produces/does not produce,item_332,,bump
+buy,Action Words,produces/does not produce,item_333,,buy
+carry,Action Words,produces/does not produce,item_334,,carry
+catch,Action Words,produces/does not produce,item_335,,catch
+chase,Action Words,produces/does not produce,item_336,,chase
+clap,Action Words,produces/does not produce,item_337,,clap
+clean,Action Words,produces/does not produce,item_338,,clean
+climb,Action Words,produces/does not produce,item_339,,climb
+close,Action Words,produces/does not produce,item_340,,close
+cook,Action Words,produces/does not produce,item_341,,cook
+cover,Action Words,produces/does not produce,item_342,,cover
+cry,Action Words,produces/does not produce,item_343,,cry
+cut,Action Words,produces/does not produce,item_344,,cut
+dance,Action Words,produces/does not produce,item_345,,dance
+draw,Action Words,produces/does not produce,item_346,,draw
+drink_2,Action Words,produces/does not produce,item_347,,drink
+drive,Action Words,produces/does not produce,item_348,,drive
+drop,Action Words,produces/does not produce,item_349,,drop
+dry,Action Words,produces/does not produce,item_350,,dry
+dump,Action Words,produces/does not produce,item_351,,dump
+eat,Action Words,produces/does not produce,item_352,,eat
+fall,Action Words,produces/does not produce,item_353,,fall
+feed,Action Words,produces/does not produce,item_354,,feed
+find,Action Words,produces/does not produce,item_355,,find
+finish,Action Words,produces/does not produce,item_356,,finish
+fit,Action Words,produces/does not produce,item_357,,fit
+fix,Action Words,produces/does not produce,item_358,,fix
+get,Action Words,produces/does not produce,item_359,,get
+give,Action Words,produces/does not produce,item_360,,give
+go,Action Words,produces/does not produce,item_361,,go
+hate,Action Words,produces/does not produce,item_362,,hate
+have,Action Words,produces/does not produce,item_363,,have
+hear,Action Words,produces/does not produce,item_364,,hear
+help,Action Words,produces/does not produce,item_365,,help
+hide,Action Words,produces/does not produce,item_366,,hide
+hit,Action Words,produces/does not produce,item_367,,hit
+hold,Action Words,produces/does not produce,item_368,,hold
+hug,Action Words,produces/does not produce,item_369,,hug
+hurry,Action Words,produces/does not produce,item_370,,hurry
+jump,Action Words,produces/does not produce,item_371,,jump
+kick,Action Words,produces/does not produce,item_372,,kick
+kiss,Action Words,produces/does not produce,item_373,,kiss
+knock,Action Words,produces/does not produce,item_374,,knock
+lick,Action Words,produces/does not produce,item_375,,lick
+like,Action Words,produces/does not produce,item_376,,like
+listen,Action Words,produces/does not produce,item_377,,listen
+look,Action Words,produces/does not produce,item_378,,look
+love,Action Words,produces/does not produce,item_379,,love
+make,Action Words,produces/does not produce,item_380,,make
+open,Action Words,produces/does not produce,item_381,,open
+paint,Action Words,produces/does not produce,item_382,,paint
+pick,Action Words,produces/does not produce,item_383,,pick
+play,Action Words,produces/does not produce,item_384,,play
+pour,Action Words,produces/does not produce,item_385,,pour
+pretend,Action Words,produces/does not produce,item_386,,pretend
+pull,Action Words,produces/does not produce,item_387,,pull
+push,Action Words,produces/does not produce,item_388,,push
+put,Action Words,produces/does not produce,item_389,,put
+read,Action Words,produces/does not produce,item_390,,read
+ride,Action Words,produces/does not produce,item_391,,ride
+rip,Action Words,produces/does not produce,item_392,,rip
+run,Action Words,produces/does not produce,item_393,,run
+say,Action Words,produces/does not produce,item_394,,say
+see,Action Words,produces/does not produce,item_395,,see
+shake,Action Words,produces/does not produce,item_396,,shake
+share,Action Words,produces/does not produce,item_397,,share
+show,Action Words,produces/does not produce,item_398,,show
+sing,Action Words,produces/does not produce,item_399,,sing
+sit,Action Words,produces/does not produce,item_400,,sit
+skate,Action Words,produces/does not produce,item_401,,skate
+sleep,Action Words,produces/does not produce,item_402,,sleep
+slide_2,Action Words,produces/does not produce,item_403,,slide
+smile,Action Words,produces/does not produce,item_404,,smile
+spill,Action Words,produces/does not produce,item_405,,spill
+splash,Action Words,produces/does not produce,item_406,,splash
+stand,Action Words,produces/does not produce,item_407,,stand
+stay,Action Words,produces/does not produce,item_408,,stay
+stop,Action Words,produces/does not produce,item_409,,stop
+sweep,Action Words,produces/does not produce,item_410,,sweep
+swim,Action Words,produces/does not produce,item_411,,swim
+swing_2,Action Words,produces/does not produce,item_412,,swing
+take,Action Words,produces/does not produce,item_413,,take
+talk,Action Words,produces/does not produce,item_414,,talk
+taste,Action Words,produces/does not produce,item_415,,taste
+tear,Action Words,produces/does not produce,item_416,,tear
+think,Action Words,produces/does not produce,item_417,,think
+throw,Action Words,produces/does not produce,item_418,,throw
+tickle,Action Words,produces/does not produce,item_419,,tickle
+touch,Action Words,produces/does not produce,item_420,,touch
+wait,Action Words,produces/does not produce,item_421,,wait
+wake,Action Words,produces/does not produce,item_422,,wake
+walk,Action Words,produces/does not produce,item_423,,walk
+wash,Action Words,produces/does not produce,item_424,,wash
+watch_2,Action Words,produces/does not produce,item_425,,watch
+wipe,Action Words,produces/does not produce,item_426,,wipe
+wish,Action Words,produces/does not produce,item_427,,wish
+work_2,Action Words,produces/does not produce,item_428,,work
+ write,Action Words,produces/does not produce,item_429,, write
+allgone,Descriptive Words,produces/does not produce,item_430,,allgone
+asleep,Descriptive Words,produces/does not produce,item_431,,asleep
+awake,Descriptive Words,produces/does not produce,item_432,,awake
+bad,Descriptive Words,produces/does not produce,item_433,,bad
+better,Descriptive Words,produces/does not produce,item_434,,better
+big,Descriptive Words,produces/does not produce,item_435,,big
+black,Descriptive Words,produces/does not produce,item_436,,black
+blue,Descriptive Words,produces/does not produce,item_437,,blue
+broken,Descriptive Words,produces/does not produce,item_438,,broken
+brown,Descriptive Words,produces/does not produce,item_439,,brown
+careful,Descriptive Words,produces/does not produce,item_440,,careful
+clean_2,Descriptive Words,produces/does not produce,item_441,,clean
+cold,Descriptive Words,produces/does not produce,item_442,,cold
+cute,Descriptive Words,produces/does not produce,item_443,,cute
+dark,Descriptive Words,produces/does not produce,item_444,,dark
+dirty,Descriptive Words,produces/does not produce,item_445,,dirty
+dry_2,Descriptive Words,produces/does not produce,item_446,,dry
+empty,Descriptive Words,produces/does not produce,item_447,,empty
+fast,Descriptive Words,produces/does not produce,item_448,,fast
+fine,Descriptive Words,produces/does not produce,item_449,,fine
+first,Descriptive Words,produces/does not produce,item_450,,first
+full,Descriptive Words,produces/does not produce,item_451,,full
+gentle,Descriptive Words,produces/does not produce,item_452,,gentle
+good,Descriptive Words,produces/does not produce,item_453,,good
+green,Descriptive Words,produces/does not produce,item_454,,green
+happy,Descriptive Words,produces/does not produce,item_455,,happy
+hard,Descriptive Words,produces/does not produce,item_456,,hard
+heavy,Descriptive Words,produces/does not produce,item_457,,heavy
+high,Descriptive Words,produces/does not produce,item_458,,high
+hot,Descriptive Words,produces/does not produce,item_459,,hot
+hungry,Descriptive Words,produces/does not produce,item_460,,hungry
+hurt,Descriptive Words,produces/does not produce,item_461,,hurt
+last,Descriptive Words,produces/does not produce,item_462,,last
+little,Descriptive Words,produces/does not produce,item_463,,little
+long,Descriptive Words,produces/does not produce,item_464,,long
+loud,Descriptive Words,produces/does not produce,item_465,,loud
+mad,Descriptive Words,produces/does not produce,item_466,,mad
+naughty,Descriptive Words,produces/does not produce,item_467,,naughty
+new,Descriptive Words,produces/does not produce,item_468,,new
+nice,Descriptive Words,produces/does not produce,item_469,,nice
+noisy,Descriptive Words,produces/does not produce,item_470,,noisy
+old,Descriptive Words,produces/does not produce,item_471,,old
+orange_2,Descriptive Words,produces/does not produce,item_472,,orange
+poor,Descriptive Words,produces/does not produce,item_473,,poor
+pretty,Descriptive Words,produces/does not produce,item_474,,pretty
+quiet,Descriptive Words,produces/does not produce,item_475,,quiet
+red,Descriptive Words,produces/does not produce,item_476,,red
+sad,Descriptive Words,produces/does not produce,item_477,,sad
+scared,Descriptive Words,produces/does not produce,item_478,,scared
+sick,Descriptive Words,produces/does not produce,item_479,,sick
+sleepy,Descriptive Words,produces/does not produce,item_480,,sleepy
+slow,Descriptive Words,produces/does not produce,item_481,,slow
+soft,Descriptive Words,produces/does not produce,item_482,,soft
+sticky,Descriptive Words,produces/does not produce,item_483,,sticky
+stuck,Descriptive Words,produces/does not produce,item_484,,stuck
+thirsty,Descriptive Words,produces/does not produce,item_485,,thirsty
+tiny,Descriptive Words,produces/does not produce,item_486,,tiny
+tired,Descriptive Words,produces/does not produce,item_487,,tired
+wet,Descriptive Words,produces/does not produce,item_488,,wet
+white,Descriptive Words,produces/does not produce,item_489,,white
+windy,Descriptive Words,produces/does not produce,item_490,,windy
+yellow,Descriptive Words,produces/does not produce,item_491,,yellow
+yucky,Descriptive Words,produces/does not produce,item_492,,yucky
+after,Words-time; Pronouns; Que,produces/does not produce,item_493,,after
+before,Words-time; Pronouns; Que,produces/does not produce,item_494,,before
+day,Words-time; Pronouns; Que,produces/does not produce,item_495,,day
+later,Words-time; Pronouns; Que,produces/does not produce,item_496,,later
+morning,Words-time; Pronouns; Que,produces/does not produce,item_497,,morning
+night,Words-time; Pronouns; Que,produces/does not produce,item_498,,night
+now,Words-time; Pronouns; Que,produces/does not produce,item_499,,now
+time,Words-time; Pronouns; Que,produces/does not produce,item_500,,time
+today,Words-time; Pronouns; Que,produces/does not produce,item_501,,today
+tomorrow,Words-time; Pronouns; Que,produces/does not produce,item_502,,tomorrow
+tonight,Words-time; Pronouns; Que,produces/does not produce,item_503,,tonight
+yesterday,Words-time; Pronouns; Que,produces/does not produce,item_504,,yesterday
+about ,"Prepositions and locations, qua",produces/does not produce,item_505,,about 
+above,"Prepositions and locations, qua",produces/does not produce,item_506,,above
+around,"Prepositions and locations, qua",produces/does not produce,item_507,,around
+at,"Prepositions and locations, qua",produces/does not produce,item_508,,at
+away,"Prepositions and locations, qua",produces/does not produce,item_509,,away
+back,"Prepositions and locations, qua",produces/does not produce,item_510,,back
+behind,"Prepositions and locations, qua",produces/does not produce,item_511,,behind
+beside,"Prepositions and locations, qua",produces/does not produce,item_512,,beside
+by,"Prepositions and locations, qua",produces/does not produce,item_513,,by
+down,"Prepositions and locations, qua",produces/does not produce,item_514,,down
+for,"Prepositions and locations, qua",produces/does not produce,item_515,,for
+here,"Prepositions and locations, qua",produces/does not produce,item_516,,here
+inside/in,"Prepositions and locations, qua",produces/does not produce,item_517,,inside/in
+into,"Prepositions and locations, qua",produces/does not produce,item_518,,into
+next to,"Prepositions and locations, qua",produces/does not produce,item_519,,next to
+of,"Prepositions and locations, qua",produces/does not produce,item_520,,of
+off,"Prepositions and locations, qua",produces/does not produce,item_521,,off
+on,"Prepositions and locations, qua",produces/does not produce,item_522,,on
+on top of,"Prepositions and locations, qua",produces/does not produce,item_523,,on top of
+out,"Prepositions and locations, qua",produces/does not produce,item_524,,out
+over,"Prepositions and locations, qua",produces/does not produce,item_525,,over
+there,"Prepositions and locations, qua",produces/does not produce,item_526,,there
+to,"Prepositions and locations, qua",produces/does not produce,item_527,,to
+under,"Prepositions and locations, qua",produces/does not produce,item_528,,under
+up,"Prepositions and locations, qua",produces/does not produce,item_529,,up
+with,"Prepositions and locations, qua",produces/does not produce,item_530,,with
+am,"Helping Verbs, Connecting Words",produces/does not produce,item_531,,am
+are,"Helping Verbs, Connecting Words",produces/does not produce,item_532,,are
+be,"Helping Verbs, Connecting Words",produces/does not produce,item_533,,be
+can_2,"Helping Verbs, Connecting Words",produces/does not produce,item_534,,can
+could,"Helping Verbs, Connecting Words",produces/does not produce,item_535,,could
+did/did ya,"Helping Verbs, Connecting Words",produces/does not produce,item_536,,did/did ya
+do,"Helping Verbs, Connecting Words",produces/does not produce,item_537,,do
+does,"Helping Verbs, Connecting Words",produces/does not produce,item_538,,does
+don’t,"Helping Verbs, Connecting Words",produces/does not produce,item_539,,don’t
+gonna/ going to,"Helping Verbs, Connecting Words",produces/does not produce,item_540,,gonna/ going to
+gotta/ got to,"Helping Verbs, Connecting Words",produces/does not produce,item_541,,gotta/ got to
+hafta/ have to,"Helping Verbs, Connecting Words",produces/does not produce,item_542,,hafta/ have to
+is,"Helping Verbs, Connecting Words",produces/does not produce,item_543,,is
+lemme/ let me,"Helping Verbs, Connecting Words",produces/does not produce,item_544,,lemme/ let me
+need/ need to,"Helping Verbs, Connecting Words",produces/does not produce,item_545,,need/ need to
+ try/ try to,"Helping Verbs, Connecting Words",produces/does not produce,item_546,, try/ try to
+ wanna/ want to,"Helping Verbs, Connecting Words",produces/does not produce,item_547,, wanna/ want to
+was,"Helping Verbs, Connecting Words",produces/does not produce,item_548,,was
+were,"Helping Verbs, Connecting Words",produces/does not produce,item_549,,were
+will,"Helping Verbs, Connecting Words",produces/does not produce,item_550,,will
+would,"Helping Verbs, Connecting Words",produces/does not produce,item_551,,would
+children,B. Word Forms,produces/does not produce,item_552,,children
+feet,B. Word Forms,produces/does not produce,item_553,,feet
+men,B. Word Forms,produces/does not produce,item_554,,men
+mice,B. Word Forms,produces/does not produce,item_555,,mice
+teeth,B. Word Forms,produces/does not produce,item_556,,teeth
+blockses,C. Word Endings Part 2,produces/does not produce,item_557,,blockses
+childrens,C. Word Endings Part 2,produces/does not produce,item_558,,childrens
+childs,C. Word Endings Part 2,produces/does not produce,item_559,,childs
+feets,C. Word Endings Part 2,produces/does not produce,item_560,,feets
+foots,C. Word Endings Part 2,produces/does not produce,item_561,,foots
+mans,C. Word Endings Part 2,produces/does not produce,item_562,,mans
+mens,C. Word Endings Part 2,produces/does not produce,item_563,,mens
+mices,C. Word Endings Part 2,produces/does not produce,item_564,,mices
+mouses,C. Word Endings Part 2,produces/does not produce,item_565,,mouses
+shoeses,C. Word Endings Part 2,produces/does not produce,item_566,,shoeses
+sockses,C. Word Endings Part 2,produces/does not produce,item_567,,sockses
+teeths,C. Word Endings Part 2,produces/does not produce,item_568,,teeths
+toeses,C. Word Endings Part 2,produces/does not produce,item_569,,toeses
+tooths,C. Word Endings Part 2,produces/does not produce,item_570,,tooths
