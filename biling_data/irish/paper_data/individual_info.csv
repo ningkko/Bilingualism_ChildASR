@@ -1,100 +1,100 @@
-CHILD,SessionNo,age,gender,MainCaregiverIrish,MainCaregiverEnglish
-101,1,35,Boys,Always,Never/rarely
-102,1,19,girl,Always,Never/rarely
-102,2,26,girl,Always,Never/rarely
-103,1,34,girl,Always,Never/rarely
-104,1,30,Boys,Always,Never/rarely
-104,2,35,Boys,Always,Never/rarely
-105,1,28,Boys,Always,Never/rarely
-105,2,31,Boys,Always,Never/rarely
-105,3,35,Boys,Always,Never/rarely
-106,1,30,Boys,Always,Never/rarely
-106,2,34,Boys,Always,Never/rarely
-107,1,17,Boys,Always,Never/rarely
-107,2,23,Boys,Always,Never/rarely
-107,3,27,Boys,Always,Never/rarely
-107,5,33,Boys,Always,Never/rarely
-108,1,21,girl,Always,Never/rarely
-108,2,26,girl,Always,Never/rarely
-108,3,30,girl,Always,Never/rarely
-108,4,34,girl,Always,Never/rarely
-109,1,23,girl,Always,Never/rarely
-110,2,18,girl,Always,Never/rarely
-110,3,22,girl,Always,Never/rarely
-111,1,24,Boys,Always,Never/rarely
-111,2,28,Boys,Always,Never/rarely
-111,3,32,Boys,Always,Never/rarely
-111,4,36,Boys,Always,Never/rarely
-112,1,27,Boys,Always,Never/rarely
-112,2,31,Boys,Always,Never/rarely
-112,3,35,Boys,Always,Never/rarely
-113,1,29,girl,Always,Never/rarely
-113,2,33,girl,Always,Never/rarely
-114,1,22,girl,Always,Never/rarely
-114,2,26,girl,Always,Never/rarely
-114,3,31,girl,Always,Never/rarely
-114,4,36,girl,Always,Never/rarely
-115,1,26,girl,Always,Never/rarely
-115,2,32,girl,Always,Never/rarely
-115,3,35,girl,Always,Never/rarely
-116,1,22,girl,Always,Never/rarely
-116,2,30,girl,Always,Never/rarely
-117,1,21,girl,sometimes,Usually
-118,1,27,Boys,Always,Never/rarely
-118,2,31,Boys,Always,Never/rarely
-118,3,34,Boys,Always,Never/rarely
-119,1,20,girl,Always,Never/rarely
-119,2,25,girl,Always,Never/rarely
-119,3,28,girl,Always,Never/rarely
-203,1,28,girl,Always,Never/rarely
-205,1,27,girl,sometimes,Usually
-302,1,26,girl,Always,Never/rarely
-303,1,26,Boys,Always,Never/rarely
-304,3,22,Boys,Always,Never/rarely
-304,4,26,Boys,Always,Never/rarely
-304,5,30,Boys,Always,Never/rarely
-304,6,35,Boys,Always,Never/rarely
-305,1,24,Boys,Always,Never/rarely
-305,2,29,Boys,Always,Never/rarely
-305,3,33,Boys,Always,Never/rarely
-305,4,36,Boys,Always,Never/rarely
-306,1,26,girl,Always,Never/rarely
-306,2,30,girl,Always,Never/rarely
-307,1,24,girl,Always,Never/rarely
-307,2,30,girl,Always,Never/rarely
-308,1,35,Boys,Always,Never/rarely
-310,1,31,girl,Always,Never/rarely
-311,1,21,Boys,Never/rarely,Always
-311,2,25,Boys,Never/rarely,Always
-311,3,31,Boys,Never/rarely,Always
-311,4,35,Boys,Never/rarely,Always
-313,1,25,girl,Usually,sometimes
-313,2,31,girl,Usually,sometimes
-313,3,36,girl,Usually,sometimes
-314,1,29,Boys,sometimes,Usually
-314,2,35,Boys,sometimes,Usually
-315,2,19,Boys,Usually,sometimes
-315,3,33,Boys,Usually,sometimes
-316,1,26,girl,Always,Never/rarely
-317,1,17,girl,Always,Never/rarely
-318,1,28,Boys,Always,Never/rarely
-318,2,32,Boys,Always,Never/rarely
-318,3,35,Boys,Always,Never/rarely
-319,1,26,Boys,Always,Never/rarely
-319,2,29,Boys,Always,Never/rarely
-319,3,33,Boys,Always,Never/rarely
-320,1,25,Boys,Always,Never/rarely
-320,2,30,Boys,Always,Never/rarely
-322,1,28,girl,Always,Never/rarely
-322,2,32,girl,Always,Never/rarely
-323,1,25,Boys,Always,Never/rarely
-324,1,30,girl,Always,Never/rarely
-325,1,35,girl,Always,Never/rarely
-401,1,23,Boys,Always,Never/rarely
-401,2,27,Boys,Always,Never/rarely
-401,3,31,Boys,Always,Never/rarely
-402,1,36,girl,50:50,50:50
-501,1,28,girl,Always,Never/rarely
-503,1,25,girl,Always,Never/rarely
-504,1,23,girl,Usually,Never/rarely
-505,1,24,girl,Always,Never/rarely
+CHILD,SessionNo,age,gender,BirthOrder,MainCaregiverIrish,MainCaregiverEnglish,LanguageHousehold
+101,1,35,Boys,4,Always,Never/rarely,Mostly Irish
+102,1,19,girl,5,Always,Never/rarely,Mostly Irish
+102,2,26,girl,5,Always,Never/rarely,Mostly Irish
+103,1,34,girl,2,Always,Never/rarely,Equal Irish and English
+104,1,30,Boys,1,Always,Never/rarely,Mostly Irish
+104,2,35,Boys,1,Always,Never/rarely,Mostly Irish
+105,1,28,Boys,3,Always,Never/rarely,Equal Irish and English
+105,2,31,Boys,3,Always,Never/rarely,Equal Irish and English
+105,3,35,Boys,3,Always,Never/rarely,Equal Irish and English
+106,1,30,Boys,1,Always,Never/rarely,Mostly Irish
+106,2,34,Boys,1,Always,Never/rarely,Mostly Irish
+107,1,17,Boys,2,Always,Never/rarely,Mostly Irish
+107,2,23,Boys,2,Always,Never/rarely,Mostly Irish
+107,3,27,Boys,2,Always,Never/rarely,Mostly Irish
+107,5,33,Boys,2,Always,Never/rarely,Mostly Irish
+108,1,21,girl,4,Always,Never/rarely,Mostly Irish
+108,2,26,girl,4,Always,Never/rarely,Mostly Irish
+108,3,30,girl,4,Always,Never/rarely,Mostly Irish
+108,4,34,girl,4,Always,Never/rarely,Mostly Irish
+109,1,23,girl,3,Always,Never/rarely,Mostly Irish
+110,2,18,girl,1,Always,Never/rarely,Mostly Irish
+110,3,22,girl,1,Always,Never/rarely,Mostly Irish
+111,1,24,Boys,1,Always,Never/rarely,Equal Irish and English
+111,2,28,Boys,1,Always,Never/rarely,Equal Irish and English
+111,3,32,Boys,1,Always,Never/rarely,Equal Irish and English
+111,4,36,Boys,1,Always,Never/rarely,Equal Irish and English
+112,1,27,Boys,2,Always,Never/rarely,Mostly Irish
+112,2,31,Boys,2,Always,Never/rarely,Mostly Irish
+112,3,35,Boys,2,Always,Never/rarely,Mostly Irish
+113,1,29,girl,3,Always,Never/rarely,Equal Irish and English
+113,2,33,girl,3,Always,Never/rarely,Equal Irish and English
+114,1,22,girl,1,Always,Never/rarely,Mostly English
+114,2,26,girl,1,Always,Never/rarely,Mostly English
+114,3,31,girl,1,Always,Never/rarely,Mostly English
+114,4,36,girl,1,Always,Never/rarely,Mostly English
+115,1,26,girl,3,Always,Never/rarely,Mostly English
+115,2,32,girl,3,Always,Never/rarely,Mostly English
+115,3,35,girl,3,Always,Never/rarely,Mostly English
+116,1,22,girl,3,Always,Never/rarely,Irish Only
+116,2,30,girl,3,Always,Never/rarely,Irish Only
+117,1,21,girl,2,sometimes,Usually,Mostly English
+118,1,27,Boys,2,Always,Never/rarely,Equal Irish and English
+118,2,31,Boys,2,Always,Never/rarely,Equal Irish and English
+118,3,34,Boys,2,Always,Never/rarely,Equal Irish and English
+119,1,20,girl,1,Always,Never/rarely,Irish Only
+119,2,25,girl,1,Always,Never/rarely,Irish Only
+119,3,28,girl,1,Always,Never/rarely,Irish Only
+203,1,28,girl,3,Always,Never/rarely,Mostly Irish
+205,1,27,girl,1,sometimes,Usually,Mostly English
+302,1,26,girl,1,Always,Never/rarely,Irish Only
+303,1,26,Boys,2,Always,Never/rarely,Irish Only
+304,3,22,Boys,2,Always,Never/rarely,Irish Only
+304,4,26,Boys,2,Always,Never/rarely,Irish Only
+304,5,30,Boys,2,Always,Never/rarely,Irish Only
+304,6,35,Boys,2,Always,Never/rarely,Irish Only
+305,1,24,Boys,2,Always,Never/rarely,Mostly Irish
+305,2,29,Boys,2,Always,Never/rarely,Mostly Irish
+305,3,33,Boys,2,Always,Never/rarely,Mostly Irish
+305,4,36,Boys,2,Always,Never/rarely,Mostly Irish
+306,1,26,girl,2,Always,Never/rarely,Equal Irish and English
+306,2,30,girl,2,Always,Never/rarely,Equal Irish and English
+307,1,24,girl,3,Always,Never/rarely,Irish Only
+307,2,30,girl,3,Always,Never/rarely,Irish Only
+308,1,35,Boys,1,Always,Never/rarely,Mostly Irish
+310,1,31,girl,2,Always,Never/rarely,Irish Only
+311,1,21,Boys,1,Never/rarely,Always,English Only
+311,2,25,Boys,1,Never/rarely,Always,English Only
+311,3,31,Boys,1,Never/rarely,Always,English Only
+311,4,35,Boys,1,Never/rarely,Always,English Only
+313,1,25,girl,2,Usually,sometimes,Mostly Irish
+313,2,31,girl,2,Usually,sometimes,Mostly Irish
+313,3,36,girl,2,Usually,sometimes,Mostly Irish
+314,1,29,Boys,3,sometimes,Usually,Equal Irish and English
+314,2,35,Boys,3,sometimes,Usually,Equal Irish and English
+315,2,19,Boys,1,Usually,sometimes,Equal Irish and English
+315,3,33,Boys,1,Usually,sometimes,Equal Irish and English
+316,1,26,girl,2,Always,Never/rarely,Mostly Irish
+317,1,17,girl,3,Always,Never/rarely,Mostly Irish
+318,1,28,Boys,2,Always,Never/rarely,Mostly Irish
+318,2,32,Boys,2,Always,Never/rarely,Mostly Irish
+318,3,35,Boys,2,Always,Never/rarely,Mostly Irish
+319,1,26,Boys,1,Always,Never/rarely,Equal Irish and English
+319,2,29,Boys,1,Always,Never/rarely,Equal Irish and English
+319,3,33,Boys,1,Always,Never/rarely,Equal Irish and English
+320,1,25,Boys,3,Always,Never/rarely,Mostly Irish
+320,2,30,Boys,3,Always,Never/rarely,Mostly Irish
+322,1,28,girl,1,Always,Never/rarely,Irish Only
+322,2,32,girl,1,Always,Never/rarely,Irish Only
+323,1,25,Boys,4,Always,Never/rarely,Irish Only
+324,1,30,girl,1,Always,Never/rarely,Mostly Irish
+325,1,35,girl,2,Always,Never/rarely,Mostly Irish
+401,1,23,Boys,1,Always,Never/rarely,Mostly English
+401,2,27,Boys,1,Always,Never/rarely,Mostly English
+401,3,31,Boys,1,Always,Never/rarely,Mostly English
+402,1,36,girl,2,50:50,50:50,Equal Irish and English
+501,1,28,girl,1,Always,Never/rarely,Mostly English
+503,1,25,girl,2,Always,Never/rarely,Irish Only
+504,1,23,girl,3,Usually,Never/rarely,Irish Only
+505,1,24,girl,1,Always,Never/rarely,Equal Irish and English
